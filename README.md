@@ -1,4 +1,4 @@
-# Blog Posts
+# Gabriel Chua - Blog Posts
 
 1. [Mar 2025: Building with OpenAI’s Agents SDK: Early Observations](openai-agents-sdk-first-thoughts/post.md)
 2. [Nov 2024: Defence Against the Dark Arts: LLM Edition](defence-against-the-dark-arts-llm-edition/post.md)
